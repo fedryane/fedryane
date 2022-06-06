@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif)](https://rishavchanda.io)
+[![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Fedryan Bandarisa</h1>
 <h3 align="center">A passionate full-stack developer from Indonesia</h3>
 <img align="right" alt="killua-coding" width="200" src="https://thumbs.gfycat.com/AcceptableNeatDairycow-size_restricted.gif">
