@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Fedryan Bandarisa</h1>
 <h3 align="center">A passionate full-stack developer from Indonesia</h3>
 <img align="right" alt="killua-coding" width="200" src="https://thumbs.gfycat.com/AcceptableNeatDairycow-size_restricted.gif">
