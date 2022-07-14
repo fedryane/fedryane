@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif)
 <h1 align="center">Hi 👋, I'm Fedryan Bandarisa</h1>
-<h3 align="center">A passionate full-stack developer from Indonesia</h3>
+
 <img align="right" alt="killua-coding" width="250" src="https://thumbs.gfycat.com/AcceptableNeatDairycow-size_restricted.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fedryane&label=Profile%20views&color=0e75b6&style=flat" alt="fedryane" /> </p>
