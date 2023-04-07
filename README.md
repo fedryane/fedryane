@@ -2,7 +2,7 @@
 # <div align="center">Hello 👋, I'm Fedryan</div>
   
 
-### <div align="center">A enthusiastic front end developer and graphics designer</div>  
+### <div align="center">A enthusiastic front end developer</div>  
   
 
 <div align="center">
