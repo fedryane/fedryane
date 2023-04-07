@@ -1,6 +1,4 @@
 ![MasterHead](https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif)
-<div align="center"><img src="https://static.wikia.nocookie.net/a50841c6-2e86-4046-b7c5-819b54267986" align="center" style="width: 50%" /></div>
-
 # <div align="center">Hello 👋, I'm Fedryan</div>
   
 
