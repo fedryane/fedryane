@@ -54,5 +54,4 @@
 ### Github Stats  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=fedryane&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>
-<div align="center"><img src="https://raw.githubusercontent.com/miukyo/miukyo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" align="center" /></div>
-
+<div align="center"><img src="https://github.com/fedryane/fedryane/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only" align="center" /></div>
