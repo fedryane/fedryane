@@ -1,7 +1,5 @@
 ![MasterHead](https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif)
-# <div align="center">Hello 👋, I'm Fedryan</div>
-### <div align="center">Just an ordinary person who prefers text with a dark background.</div>  
-  
+# <div align="center">Hello 👋</div>
 
 <div align="center">
 <a href="https://github.com/narunyan" target="_blank">
